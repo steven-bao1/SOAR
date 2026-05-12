@@ -12,10 +12,9 @@
   </a>
 </p>
 
-**ChengZhu Bao**<sup>1*</sup>, **Xianglong Yan**<sup>1*</sup>, **Zhiteng Li**<sup>1</sup>, **Guangshuo Qin**<sup>1</sup>, **Guanghua Yu**<sup>2</sup>, **Yulun Zhang**<sup>1</sup>
-
-<sup>1</sup>Shanghai Jiao Tong University, <sup>2</sup>Tencent
-
+<p align="center">
+  <strong>ChengZhu Bao</strong>, <strong>Xianglong Yan</strong>, <strong>Zhiteng Li</strong>, <strong>Guangshuo Qin</strong>, <strong>Guanghua Yu</strong>, <strong>Yulun Zhang</strong>
+</p>
 ---
 
 #### 🔥 News
@@ -52,7 +51,7 @@
 SOAR consistently outperforms state-of-the-art NVFP4 quantization methods (such as RaZeR and 4over6) across various benchmarks including MMLU, GSM8K, and common-sense reasoning tasks.
 
 <p align="center">
-  <img width="100%" src="figs/experment.png">
+  <img width="100%" src="figs/experiment.png">
 </p>
 
 ## 📜 Citation
