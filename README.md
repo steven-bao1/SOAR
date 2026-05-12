@@ -37,8 +37,8 @@
 
 ## 🔗 Contents
 
-- [ ] [Methodology](#-methodology)
-- [ ] [Installation](#-installation)
+- [ ] [Post-training quantization]
+- [ ] [Models]
 - [ ] [Results](#-results)
 - [ ] [Citation](#-citation)
 - [ ] [Acknowledgements](#-acknowledgements)
@@ -54,4 +54,6 @@ SOAR consistently outperforms state-of-the-art NVFP4 quantization methods (such 
 </p>
 </details>
 
+## 💡 Acknowledgements
 
+This work is released under the Apache 2.0 license.
