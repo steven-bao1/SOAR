@@ -33,10 +33,7 @@
 
 ## ⚒️ TODO
 
-* [ ] Release the core SOAR optimization code
-* [ ] Provide pre-quantized NVFP4 checkpoints for LLaMA-3.1/3.2
-* [ ] Support for Qwen-3 series evaluation
-* [ ] Efficient CUDA kernels for NVFP4 inference
+* [ ] Complete this repository
 
 ## 🔗 Contents
 
