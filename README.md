@@ -37,8 +37,8 @@
 
 ## 🔗 Contents
 
-- [ ] [Post-training quantization]
-- [ ] [Models]
+- [ ] Post-training quantization
+- [ ] Models
 - [ ] [Results](#-results)
 - [ ] [Citation](#-citation)
 - [ ] [Acknowledgements](#-acknowledgements)
