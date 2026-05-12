@@ -16,7 +16,7 @@
   <a href="https://github.com/steven-bao1">ChengZhu Bao</a>, 
   <a href="https://xianglongyan.github.io/">Xianglong Yan</a>, 
   <a href="https://zhitengli.github.io">Zhiteng Li</a>, 
-  Guangshuo Qin, 
+  <a href="https://github.com/guangshuoqin">Guangshuo Qin</a>, 
   Guanghua Yu, 
   <a href="http://yulunzhang.com/">Yulun Zhang</a>
 </p>
