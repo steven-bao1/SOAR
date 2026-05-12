@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>ChengZhu Bao</strong>, <strong>Xianglong Yan</strong>, <strong>Zhiteng Li</strong>, <strong>Guangshuo Qin</strong>, <strong>Guanghua Yu</strong>, <strong>Yulun Zhang</strong>
+  ChengZhu Bao, [Xianglong Yan](https://xianglongyan.github.io/), [Zhiteng Li](https://zhitengli.github.io), Guangshuo Qin, Guanghua Yu, Yulun Zhang(http://yulunzhang.com/)
 </p>
 ---
 
