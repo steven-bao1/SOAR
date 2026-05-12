@@ -42,26 +42,19 @@
 
 - [ ] [Methodology](#-methodology)
 - [ ] [Installation](#-installation)
-- [x] [Results](#-results)
-- [x] [Citation](#-citation)
-- [x] [Acknowledgements](#-acknowledgements)
+- [] [Results](#-results)
+- [] [Citation](#-citation)
+- [] [Acknowledgements](#-acknowledgements)
 
 ## 🔎 Results
 
 SOAR consistently outperforms state-of-the-art NVFP4 quantization methods (such as RaZeR and 4over6) across various benchmarks including MMLU, GSM8K, and common-sense reasoning tasks.
 
+<details>
+<summary>📊 Click to view experimental results (experiment.png)</summary>
 <p align="center">
   <img width="100%" src="figs/experiment.png">
 </p>
+</details>
 
-## 📜 Citation
 
-If you find SOAR helpful in your research, please cite our work:
-
-```bibtex
-@inproceedings{bao2026soar,
-  title={SOAR: Scale Optimization for Accurate Reconstruction in NVFP4 Quantization},
-  author={Bao, ChengZhu and Yan, Xianglong and Li, Zhiteng and Qin, Guangshuo and Yu, Guanghua and Zhang, Yulun},
-  booktitle={Proceedings of the 40th Conference on Neural Information Processing Systems (NeurIPS)},
-  year={2026}
-}
