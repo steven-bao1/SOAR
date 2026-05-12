@@ -42,9 +42,9 @@
 
 - [ ] [Methodology](#-methodology)
 - [ ] [Installation](#-installation)
-- [] [Results](#-results)
-- [] [Citation](#-citation)
-- [] [Acknowledgements](#-acknowledgements)
+- [ ] [Results](#-results)
+- [ ] [Citation](#-citation)
+- [ ] [Acknowledgements](#-acknowledgements)
 
 ## 🔎 Results
 
