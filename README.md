@@ -1,7 +1,7 @@
 # SOAR: Scale Optimization for Accurate Reconstruction in NVFP4 Quantization
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2605.xxxxx">
+  <a href="https://arxiv.org/abs/2605.12245">
     <img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv&logoSvg">
   </a>
   <a href="https://github.com/steven-bao1/SOAR">
