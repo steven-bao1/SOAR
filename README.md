@@ -66,7 +66,7 @@ If you find the code helpful in your research or work, please cite the following
 ```bibtex
 @article{bao2026s,
   title={SOAR: Scale Optimization for Accurate Reconstruction in NVFP4 Quantization},
-  author={Bao, Chengzhu and Yan Xianglong and Li, Zhiteng and Qin Guangshuo and Yu Guanghua and Zhang, Yulun},
+  author={Bao, Chengzhu and Yan, Xianglong and Li, Zhiteng and Qin, Guangshuo and Yu, Guanghua and Zhang, Yulun},
   journal={arXiv preprint arXiv:2605.12245},
   year={2026}
 }
